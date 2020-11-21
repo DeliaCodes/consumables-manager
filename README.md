@@ -1,2 +1,2 @@
-# consumables-manager
-A small app to manage consumable goods.
+# Instacart Manager
+WIP. A small app to see what you spend on instacart delivery.
