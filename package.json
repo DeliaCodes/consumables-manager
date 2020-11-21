@@ -1,0 +1,23 @@
+{
+  "name": "instacart-manager",
+  "version": "0.1.0",
+  "description": "Instacart and other grocery delivery data manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeliaCodes/instacart-manager.git"
+  },
+  "keywords": [
+    "instacart",
+    "typescript"
+  ],
+  "author": "me@delia.codes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeliaCodes/instacart-manager/issues"
+  },
+  "homepage": "https://github.com/DeliaCodes/instacart-manager#readme"
+}
